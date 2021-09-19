@@ -2,9 +2,12 @@
 > Aplicativo para desenvolvimento Swift/iOS
 
 Aplicativo para calcular a conversão do cambio Dólar/Real e taxações.
-Swift 5.4
+
 
 ## Conceitos abordados
+
+* Linguagem
+    * Swift 5.4
 
 * Auto Layout
     * Constraint
