@@ -17,3 +17,21 @@ Swift 5.4
     * UITabBarController
     * UIStackView
     * UISwitch
+
+* Singleton
+    * Variáveis
+    * Variáveis computadas
+    * Funções
+    * NumberFormatter
+
+* Assets diferentes por device
+
+* Modos de exibição Landscape e Portrait diferente
+
+## Snapshots
+
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
