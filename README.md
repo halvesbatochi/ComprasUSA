@@ -13,7 +13,7 @@ Aplicativo para calcular a conversão do câmbio Dólar/Real e taxações.
     * Constraint
     * Autoresizing 
     * Size Classes
-        * Modos de exibição Landscape e Portrait diferente
+        * Modos de exibição Landscape e Portrait com elementos, tamanho de fontes e componentes UI diferentes
 
 * UI Components
     * UIView
