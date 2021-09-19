@@ -30,8 +30,4 @@ Swift 5.4
 
 ## Snapshots
 
-<img src="1.png" width="200">
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
+<img src="1.png" width="200"><img src="2.png" width="200">
