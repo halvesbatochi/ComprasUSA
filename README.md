@@ -30,4 +30,4 @@ Swift 5.4
 
 ## Snapshots
 
-<img src="1.png" width="200"><img src="2.png" width="200">
+<img src="1.png" width="200" style="margin-left: 10px"><img src="2.png" width="200">
