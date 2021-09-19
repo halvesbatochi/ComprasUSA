@@ -1,7 +1,7 @@
 # ComprasUSA
 > Aplicativo para desenvolvimento Swift/iOS
 
-Aplicativo para calcular a conversão do cambio Dólar/Real e taxações.
+Aplicativo para calcular a conversão do câmbio Dólar/Real e taxações.
 
 
 ## Conceitos abordados
@@ -17,6 +17,8 @@ Aplicativo para calcular a conversão do cambio Dólar/Real e taxações.
 * UI Components
     * UIView
     * UIImage
+    * UILabel
+    * UITextField
     * UITabBarController
     * UIStackView
     * UISwitch
@@ -26,6 +28,12 @@ Aplicativo para calcular a conversão do cambio Dólar/Real e taxações.
     * Variáveis computadas
     * Funções
     * NumberFormatter
+    * Extension
+
+* Delegates
+    *UITextFieldDelegate
+
+
 
 * Assets diferentes por device
 
