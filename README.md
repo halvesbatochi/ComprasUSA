@@ -30,7 +30,7 @@ Swift 5.4
 
 ## Snapshots
 
-![](1.png)
+![](1.png){width: 40%, height: 40%}
 ![](2.png)
 ![](3.png)
 ![](4.png)
