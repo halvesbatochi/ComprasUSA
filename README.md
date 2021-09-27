@@ -22,7 +22,7 @@ Aplicativo para calcular a conversão do câmbio Dólar/Real e taxações.
     * UIImage
     * UILabel
     * UITextField
-    * UITabBarController
+    * UITabBar
     * UIStackView
     * UISwitch
 
